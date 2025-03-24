@@ -1,3 +1,4 @@
+//This is the Main Activity file
 package com.example.githubdemo_3560;
 
 import android.os.Bundle;
